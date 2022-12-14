@@ -4,7 +4,7 @@ public class clasecolor {
     private static String color;
     /**
      * Clase principal utilizada para ejecutar la aplicación
-     * @author  Consejería de Educación
+     * @author  Consejería de Educación - IES El rincón
     */
     public static void main(String[] args) {
 
